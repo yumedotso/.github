@@ -1,7 +1,7 @@
 # Yume
 
 <div align="center">
-  <img align="center"  width="auto" height="auto" src="/public/mstile-150x150.png" />
+  <img align="center"  width="auto" height="auto" src="/maskable_icon.png" />
   <br/>
 
   <div id="user-content-toc">
