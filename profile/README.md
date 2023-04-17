@@ -31,6 +31,12 @@ To become the go-to platform for creating and sharing wish lists, inspiring peop
 - **Community**: We value the importance of community and connection, fostering meaningful relationships and helping people share their dreams with loved ones.
 
 
+## Desings
+
+- [Figma](https://www.figma.com/file/3Tm1i44PFQszJSw6zuqUvJ/Yume?t=nGhnaFVzGtX5pKHk-1)
+
+
+
 ## Yume related repositories
 
 - [Landing](https://github.com/yumedotso/landing)
