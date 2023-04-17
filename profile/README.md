@@ -1,4 +1,4 @@
-# Yume
+# Yume (in-progress)
 
 <div align="center">
   <img align="center"  width="auto" height="auto" src="/maskable_icon.png" />
@@ -12,6 +12,13 @@
 </div>
 
 Yume is a user-friendly platform that helps people store, organize, and share their wish lists with friends and family, allowing them to easily keep track of their desired items and receive thoughtful gifts on special occasions.
+
+Yume has been created as a learning project and it is intented to be kept that way. It is an open-source project that intends to make it easier to try-out new technologies using best-practices and production-ready configurations outside your main job.
+
+The architecture is based on micro-services and micro-frontends to make easity the possibility to combine multiple technologies, databases, languages, etc within the same project. 
+
+Even if it is an open-source project Yume was born out of a product idea and in order to provide the best learning and growing experience should be treated as a product.
+
 
 ## Mision, Vision & Values
 
@@ -34,7 +41,6 @@ To become the go-to platform for creating and sharing wish lists, inspiring peop
 ## Desings
 
 - [Figma](https://www.figma.com/file/3Tm1i44PFQszJSw6zuqUvJ/Yume?t=nGhnaFVzGtX5pKHk-1)
-
 
 
 ## Yume related repositories
