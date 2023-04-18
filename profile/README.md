@@ -52,7 +52,7 @@ To become the go-to platform for creating and sharing wish lists, inspiring peop
 - [Auth service](https://github.com/gagocarrilloedgar/auth)
   - **Main technologies**: Python, Poetry, PostgreSQL, Flask, Flasgger, Flask-Marshmallow, SQLAlchemy
 - [Wishes service](https://github.com/yumedotso/wishes):
-  - **Main technologies**: tRPC, TS, PostgreSQL, Prisma.
+  - **Main technologies**: graphQL, TS, PostgreSQL, Prisma.
 - [Recommendations service](https://github.com/yumedotso/recommendations):
   - **Main technologies**: Python, Poetry, Transformers, Huggingface API, Flask, Flask, Flasgger, Flask-Marshmallow, Serverless
   
